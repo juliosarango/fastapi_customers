@@ -1,0 +1,7 @@
+fastapi['standard']==0.115.3
+sqlmodel==0.0.22
+pytest==8.3.3
+coverage==7.6.7
+PyJWT==2.10.0
+pydantic-settings-2.6.1
+passlib==1.7.4
